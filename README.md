@@ -1,4 +1,6 @@
 hi# Arduini-sensors-analog-digital-
+
+
 ** arduino/ sensor  /analog /temperature 
 circuit
 نقوم  بتوصيل 
