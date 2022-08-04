@@ -1,4 +1,4 @@
-# Arduini-sensors-analog-digital-
+hi# Arduini-sensors-analog-digital-
 ** arduino/ sensor  /analog /temperature 
 circuit
 نقوم  بتوصيل 
@@ -31,3 +31,23 @@ https://www.tinkercad.com/things/9TEw4Rhs47a
 circuit
 نقوم بتوصيل  دائره موجوده بالصور 
 نستخدم  الكود 
+cod
+
+الكود البرمجي :
+
+
+int Led =7;
+void setup() {
+  pinMode(Led,OUTPUT);
+}
+void loop()
+{
+digitalWrite(Led,HIGH);
+  delay(1000);
+  digitalWrite(Led,LOW);
+  delay(1000);
+}
+
+يتم   تشغيل   لمبة  led    
+يمكن  تجربة  الدائرة في   link  
+
