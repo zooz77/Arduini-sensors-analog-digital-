@@ -24,3 +24,10 @@ delay(1000);
 }
  نحسب   درجة حرارة  الغرفه   كما  في  link
 https://www.tinkercad.com/things/9TEw4Rhs47a
+  
+
+**arduino /sensor /digital 
+
+circuit
+نقوم بتوصيل  دائره موجوده بالصور 
+نستخدم  الكود 
