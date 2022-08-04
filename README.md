@@ -23,3 +23,4 @@ Serial.println(C);
 delay(1000);
 }
  نحسب   درجة حرارة  الغرفه   كما  في  link
+https://www.tinkercad.com/things/9TEw4Rhs47a
