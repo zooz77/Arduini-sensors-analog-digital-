@@ -51,3 +51,6 @@ digitalWrite(Led,HIGH);
 يتم   تشغيل   لمبة  led    
 يمكن  تجربة  الدائرة في   link  
 
+https://www.tinkercad.com/things/1gxcGpHW9r2
+
+
